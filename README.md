@@ -21,6 +21,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlopez7483&layout=compact&theme=tokyonight)
 
 ---
+---
+## 🦊 GitLab
+
+🔗 [Visita mi perfil en GitLab](https://gitlab.com/david201907483)
+
+![GitLab Stats](https://gitlab-stats.vercel.app/api/users/david201907483?theme=tokyonight)
+
+---
+
 
 ## 🌟 Proyectos Destacados
 
