@@ -1,8 +1,8 @@
-## Hi there 👋 I´m David López (dlopez7483)
+## 👋 Hi there, I’m David López (dlopez7483)
 
+I'm a Systems Engineering student passionate about Artificial Intelligence, Data Science, Visualization, and Secure Networks. I enjoy turning complex data and systems into clear and useful tools.
 
-
-## 🛠️ Tecnologías que uso
+---
 
 ## 🛠️ My Skills
 
@@ -24,7 +24,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-
 ### 🔧 Software & Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -33,44 +32,43 @@
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
 ![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dlopez7483&show_icons=true&theme=tokyonight&hide_title=true)
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dlopez7483&show_icons=true&theme=tokyonight&hide_title=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlopez7483&layout=compact&theme=tokyonight)
 
 ---
----
+
 ## 🦊 GitLab
 
-🔗 [Visita mi perfil en GitLab](https://gitlab.com/david201907483)
-
+🔗 [Visit my GitLab profile](https://gitlab.com/david201907483)  
 [![GitLab](https://img.shields.io/badge/GitLab-david201907483-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/david201907483)
 
+---
+
+## 🌟 Featured Projects
+
+- 🔧 **[System Call Monitoring (C + Python)](https://github.com/dlopez7483/sistema-monitoreo-syscalls)**  
+  Real-time syscall capture exported as JSON for dashboard visualization.
+
+- 📊 **[Energy Dashboard (Excel + Python)](https://github.com/dlopez7483/dashboard-energia)**  
+  Visual analysis of energy production and consumption by country using pandas, matplotlib, and Dash.
+
+- 🌐 **[Secure Network Topology with VLANs and Port-Security (SOG2)](https://github.com/dlopez7483/proyecto-redes)**  
+  Implementation of security features on Cisco switches: trunking, STP, port-security, and logical segmentation.
 
 ---
 
+## 📫 Contact Me
 
-## 🌟 Proyectos Destacados
-
-- 🔧 **[Sistema de monitoreo de llamadas del sistema (C + Python)](https://github.com/dlopez7483/sistema-monitoreo-syscalls)**  
-  Captura en tiempo real de syscalls exportadas como JSON para visualización en dashboard.
-
-- 📊 **[Dashboard energético (Excel + Python)](https://github.com/dlopez7483/dashboard-energia)**  
-  Análisis visual de consumo y producción energética por país con pandas, matplotlib y Dash.
-
-- 🌐 **[Topología segura de red con VLANs y port-security (SOG2)](https://github.com/dlopez7483/proyecto-redes)**  
-  Implementación de seguridad en switches Cisco, trunking, STP y segmentación lógica.
+- 📧 Email: [youremail@example.com](mailto:youremail@example.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
+- 🌐 Personal Website: [your-site.com](https://your-site.com)
 
 ---
 
-## 📫 ¿Cómo contactarme?
+> *"Technology doesn't replace excellence — it amplifies it."*
 
-- 📧 Email: [tucorreo@dominio.com](mailto:tucorreo@dominio.com)  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario/)  
-- 🌐 Portafolio personal: [tu-sitio.com](https://tu-sitio.com)
-
----
 
