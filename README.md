@@ -1,23 +1,45 @@
 ## Hi there 👋 I´m David López (dlopez7483)
 
 
-Soy estudiante de Ingeniería en Ciencias y Sistemas apasionado por la Inteligencia Artificial, Ciencia de Datos y Visualización de Datos. También tengo experiencia en redes, bases de datos y desarrollo web.
 
-## 🚀 Tecnologías y herramientas
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+## 🛠️ Tecnologías que uso
 
-## 📈 Estadísticas de GitHub
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidLopez&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLopez&layout=compact&theme=github_dark)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📫 Contáctame
-- ✉️ [Tu correo institucional o personal]
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario/)
-- 🌐 [Portafolio o página personal si tienes]
+---
+
+## 📊 Estadísticas de GitHub
+
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dlopez7483&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlopez7483&layout=compact&theme=tokyonight)
+
+---
+
+## 🌟 Proyectos Destacados
+
+- 🔧 **[Sistema de monitoreo de llamadas del sistema (C + Python)](https://github.com/dlopez7483/sistema-monitoreo-syscalls)**  
+  Captura en tiempo real de syscalls exportadas como JSON para visualización en dashboard.
+
+- 📊 **[Dashboard energético (Excel + Python)](https://github.com/dlopez7483/dashboard-energia)**  
+  Análisis visual de consumo y producción energética por país con pandas, matplotlib y Dash.
+
+- 🌐 **[Topología segura de red con VLANs y port-security (SOG2)](https://github.com/dlopez7483/proyecto-redes)**  
+  Implementación de seguridad en switches Cisco, trunking, STP y segmentación lógica.
+
+---
+
+## 📫 ¿Cómo contactarme?
+
+- 📧 Email: [tucorreo@dominio.com](mailto:tucorreo@dominio.com)  
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario/)  
+- 🌐 Portafolio personal: [tu-sitio.com](https://tu-sitio.com)
+
+---
 
