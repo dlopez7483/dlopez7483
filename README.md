@@ -1,6 +1,6 @@
 ## Hi there 👋 I´m David López (dlopez7483)
 
-<!--
+
 Soy estudiante de Ingeniería en Ciencias y Sistemas apasionado por la Inteligencia Artificial, Ciencia de Datos y Visualización de Datos. También tengo experiencia en redes, bases de datos y desarrollo web.
 
 ## 🚀 Tecnologías y herramientas
@@ -20,4 +20,4 @@ Soy estudiante de Ingeniería en Ciencias y Sistemas apasionado por la Inteligen
 - ✉️ [Tu correo institucional o personal]
 - 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario/)
 - 🌐 [Portafolio o página personal si tienes]
--->
+
