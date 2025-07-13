@@ -26,7 +26,8 @@
 
 🔗 [Visita mi perfil en GitLab](https://gitlab.com/david201907483)
 
-![GitLab Stats](https://gitlab-stats.vercel.app/api/users/david201907483?theme=tokyonight)
+[![GitLab](https://img.shields.io/badge/GitLab-david201907483-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/david201907483)
+
 
 ---
 
