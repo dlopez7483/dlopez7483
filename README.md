@@ -57,6 +57,8 @@ I'm a Systems Engineering student passionate about Artificial Intelligence, Data
 - 🕒 **[RFID Attendance System (Node.js + React + MySQL)](https://github.com/dlopez7483/proyecto_asistencia014.git)**
 Automated attendance tracking using RFID cards. Data is sent to a central system in real time, stored in a relational database, and visualized through a web interface for academic or workplace monitoring.
 
+- 💬 **[AI Chatbot (Python + TensorFlow)](https://github.com/dlopez7483/IA1_Proyecto_7.git)**
+Intent-based conversational chatbot using NLP and deep learning. Trained with TensorFlow to recognize user intents and respond accordingly. Designed for interactive assistance in educational or customer service scenarios.
 
 ---
 
