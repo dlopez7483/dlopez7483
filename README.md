@@ -54,6 +54,8 @@ I'm a Systems Engineering student passionate about Artificial Intelligence, Data
 - 🔧 **[System Call Monitoring (C + Python)](https://github.com/dlopez7483/sistema-monitoreo-syscalls)**  
   Real-time syscall capture exported as JSON for dashboard visualization.
 
+- 🕒 **[RFID Attendance System (Node.js + React + MySQL)](https://github.com/dlopez7483/proyecto_asistencia014.git)**
+Automated attendance tracking using RFID cards. Data is sent to a central system in real time, stored in a relational database, and visualized through a web interface for academic or workplace monitoring.
 
 
 ---
