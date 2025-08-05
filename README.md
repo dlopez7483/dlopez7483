@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m David López (dlopez7483)
 
-I'm a Systems Engineering student passionate about Artificial Intelligence, Data Science, Visualization, and Secure Networks. I enjoy turning complex data and systems into clear and useful tools.
+I'm a Systems Engineering student passionate about Artificial Intelligence, Data Science, Visualization. I enjoy turning complex data and systems into clear and useful tools.
 
 ---
 
@@ -11,6 +11,7 @@ I'm a Systems Engineering student passionate about Artificial Intelligence, Data
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🌐 Frontend Development  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -53,19 +54,15 @@ I'm a Systems Engineering student passionate about Artificial Intelligence, Data
 - 🔧 **[System Call Monitoring (C + Python)](https://github.com/dlopez7483/sistema-monitoreo-syscalls)**  
   Real-time syscall capture exported as JSON for dashboard visualization.
 
-- 📊 **[Energy Dashboard (Excel + Python)](https://github.com/dlopez7483/dashboard-energia)**  
-  Visual analysis of energy production and consumption by country using pandas, matplotlib, and Dash.
 
-- 🌐 **[Secure Network Topology with VLANs and Port-Security (SOG2)](https://github.com/dlopez7483/proyecto-redes)**  
-  Implementation of security features on Cisco switches: trunking, STP, port-security, and logical segmentation.
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
-- 🌐 Personal Website: [your-site.com](https://your-site.com)
+- 📧 Email: [david.lmor7@gmail.com](mailto:david.lmor7@gmail.com)  
+
+
 
 ---
 
