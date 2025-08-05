@@ -51,7 +51,7 @@ I'm a Systems Engineering student passionate about Artificial Intelligence, Data
 
 ## 🌟 Featured Projects
 
-- 🔧 **[System Call Monitoring (C + Python)](https://github.com/dlopez7483/sistema-monitoreo-syscalls)**  
+- 🔧 **[System Call Monitoring (C + Python)](https://github.com/dlopez7483/LINUX_USAC.git)**  
   Real-time syscall capture exported as JSON for dashboard visualization.
 
 - 🕒 **[RFID Attendance System (Node.js + React + MySQL)](https://github.com/dlopez7483/proyecto_asistencia014.git)**
