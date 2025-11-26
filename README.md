@@ -39,9 +39,12 @@ I'm a Systems Engineering student passionate about **Artificial Intelligence, Da
 
 > Stats updated using stable mirrors to avoid loading issues.
 
-![David's GitHub Stats](https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=dlopez7483&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=7200)
-
-![Top Langs](https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=dlopez7483&layout=compact&theme=tokyonight&cache_seconds=7200)
+<p align="center">
+<a href="https://github.com/dlopez7483">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dlopez7483&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dlopez7483&layout=compact&langs_count=8&theme=nightowl"/>
+</a>
+</p>
 
 ---
 
